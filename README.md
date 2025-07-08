@@ -1,4 +1,4 @@
-#Thermal Resistance Analysis in Metal Rods with Air Gaps
+# Thermal Resistance Analysis in Metal Rods with Air Gaps
 
 This project investigates the **effect of air gaps on thermal resistance** in metal rods by evaluating **contact resistance** in segmented vs. solid rods. The study uses steady-state heat transfer experiments to compare temperature profiles and understand the role of interfacial resistance.
 
